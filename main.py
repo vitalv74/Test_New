@@ -8,7 +8,16 @@ rtutyuty
 def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
     print(f'Hi, {name} рuyrtuопgjhрvcbcvb')  # Press Ctrl+F8 to toggle the breakpoint.
-
+ljkljkl
+jkl
+jkl
+jk
+l
+jkl
+k
+jl
+jk
+l
 
 # Press the green button in the gutter to run the script.
 if __kjlkljkljkname__ == '__makjhkjhkjhkjhin__':
