@@ -11,13 +11,12 @@ def print_hi(name):
 ljkljkl
 jkl
 jkl
-jk
-l
-jkl
-k
-jl
-jk
-l
+erterttert
+gdfg
+dfg
+df
+gd
+fg
 
 # Press the green button in the gutter to run the script.
 if __kjlkljkljkname__ == '__makjhkjhkjhkjhin__':
